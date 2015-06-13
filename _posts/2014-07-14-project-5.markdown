@@ -3,7 +3,7 @@ title: Deputy Associate Director for NEPA Oversight @ Council on Environmental Q
 subtitle: Interagenc y Assignment
 layout: default
 modal-id: 5
-date: 2013-2014
+date: 2014-07-16
 img: CEQ.jpg
 thumbnail: CEQ_full.jpg
 alt: image-alt
@@ -11,5 +11,5 @@ project-date: 1 Year 6 Months
 client: Whitehouse
 category: Assignment
 description: .
-href: 
+href:
 ---

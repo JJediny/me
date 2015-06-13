@@ -3,7 +3,7 @@ title: Executive Order on Improving Performance of Federal Permitting and Review
 subtitle: Interagency Assignment
 layout: default
 modal-id: 4
-date: 2013-2014
+date: 2014-07-16
 img: EO13604.jpg
 thumbnail: EO13604_full.jpg
 alt: image-alt
