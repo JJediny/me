@@ -1,6 +1,6 @@
 ---
-category: project
-title: Dreams
+category: timeline
+title: Timelone Entry
 subtitle: Website Design
 layout: default
 modal-id: 1

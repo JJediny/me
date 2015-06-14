@@ -1,4 +1,4 @@
-url: https://jjediny.io
+url: jjediny.io
 baseurl: /me/
 
 # Site settings
@@ -13,18 +13,6 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
 #- name:
 #  pic: 2
 #  position:
