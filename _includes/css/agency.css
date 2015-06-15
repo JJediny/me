@@ -11,7 +11,7 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    color: #333;
 }
 
 .text-primary {
@@ -62,11 +62,11 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #fff;
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #999;
 }
 
 .btn-primary {
@@ -188,7 +188,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
+    border-color: #999;
 }
 
 .navbar-default .navbar-toggle {
@@ -371,8 +371,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
+    background: #{{ site.color.primary }};
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -748,11 +747,11 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
+    font-size: 40px;
+    line-height: 60px;
     outline: 0;
     color: #fff;
     background-color: #222;
@@ -796,7 +795,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Lato";
     font-size: 16px;
     font-style: italic;
 }
