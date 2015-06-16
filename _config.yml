@@ -8,8 +8,8 @@ description: ""
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 3333FF
-  secondary: 3333FF
+  primary: a93032
+  secondary: a93032
   secondary-dark: 666666
 
 # Team names, titles and social links
