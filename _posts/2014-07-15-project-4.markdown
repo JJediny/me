@@ -6,7 +6,7 @@ layout: default
 modal-id: 4
 date: 2014-07-16
 img: EO13604.jpg
-thumbnail: EO13604_full.jpg
+thumbnail: fa-check
 alt: image-alt
 project-date: 2 years
 client: Whitehouse

@@ -5,8 +5,8 @@ subtitle: Interagency Coordination
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: whmapathon.jpg
-thumbnail: whmapathon_full.jpg
+img: whmapath
+thumbnail: fa-check
 alt: image-alt
 project-date: May 2015
 client: White House
