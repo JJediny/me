@@ -6,7 +6,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: whmapath
-thumbnail: fa-check
+thumbnail: fa-check-square-o
 alt: image-alt
 project-date: May 2015
 client: White House
