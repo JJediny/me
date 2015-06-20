@@ -1,5 +1,5 @@
 ---
-category: timeline
+category: timeline-personal
 tags: personal
 title: Personal Entry Test
 subtitle: Website Design
