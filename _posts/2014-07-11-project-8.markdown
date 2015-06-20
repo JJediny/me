@@ -1,12 +1,12 @@
 ---
-category: project
-tags:
-title: Golden
+category: timeline
+tags: personal
+title: Timelone Entry
 subtitle: Website Design
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
+modal-id: 1
+date: 2014-07-18
+img: solargarden.jpg
 thumbnail: fa-check-square-o
 alt: image-alt
 project-date: April 2014
