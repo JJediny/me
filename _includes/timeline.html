@@ -10,8 +10,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
-                      {% for post in site.categories.timeline-personal %}
-                        {% for post in posts %}
+                      {% for post in site.categories.timeline_personal %}
                         <li>
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="{{ post.img }}" alt="">
@@ -26,10 +25,8 @@
                                 </div>
                             </div>
                         </li>
-                       {% endfor %}
                      {% endfor %}
-                     {% for post in site.categories.timeline-professional %}
-                        {% for post in posts %}
+                     {% for post in site.categories.timeline_professional %}
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="{{ post.img }}" alt="">
@@ -44,10 +41,10 @@
                                 </div>
                             </div>
                         </li>
-                        {% endfor %}
                     {% endfor %}
                     </ul>
                   </div>
+
              </div>
   </div>
 </secton>
