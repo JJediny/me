@@ -6,7 +6,7 @@ subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: sharktank_full.jpg
+img: 17872_633890561332_7425185_n.jpg
 thumbnail: fa-check-square-o
 alt: image-alt
 project-date: April 2014
