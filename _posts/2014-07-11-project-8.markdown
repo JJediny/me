@@ -1,7 +1,7 @@
 ---
 category: timeline
 tags: personal
-title: Timelone Entry
+title: Personal Entry Test
 subtitle: Website Design
 layout: default
 modal-id: 1
@@ -11,6 +11,6 @@ thumbnail: fa-check-square-o
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description:
+description: Personal Description
 href:
 ---
