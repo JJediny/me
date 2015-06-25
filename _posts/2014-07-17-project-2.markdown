@@ -9,7 +9,8 @@ date: 2014-07-17
 img: escape.png
 thumbnail: fa-check-square-o
 alt: image-alt
-project-date: April 2014
+project-date-start: May 2015
+project-date-end:
 client:
 description:
 href:
