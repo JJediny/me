@@ -267,6 +267,12 @@ fieldset[disabled] .btn-xl.active {
 
 }
 
+.btn-default {
+  color: #{{ site.color.primary }};
+  background-color: #{{ site.color.secondary-dark }};
+  border-color: #{{ site.color.secondary-dark }};
+}
+
 header {
     text-align: center;
     color: #fff;
