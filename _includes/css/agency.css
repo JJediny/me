@@ -269,9 +269,16 @@ fieldset[disabled] .btn-xl.active {
 
 .btn-default {
   color: #{{ site.color.primary }};
-  background-color: #{{ site.color.secondary-dark }};
+  background-color: #fff;
   border-color: #{{ site.color.secondary-dark }};
 }
+
+btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+  color: #fff;
+  background-color: #000;
+  border-color: #{{ site.color.primary }};
+}
+
 
 header {
     text-align: center;
