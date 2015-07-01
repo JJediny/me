@@ -1,17 +1,17 @@
 ---
-category: project
-tags:
-title: Dreams
+category: learning_personal
+tags: personal
+title: Be Adventerous and Open to Possibilities
 subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+img: 4633_588906609532_1333699_n.jpg
 thumbnail: fa-check-square-o
 alt: image-alt
 project-date-start: May 2015
-project-date-end: 
+project-date-end:
 client: Start Bootstrap
-description:
+description: Personal Description
 href:
 ---
